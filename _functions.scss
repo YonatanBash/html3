@@ -78,7 +78,7 @@
 /// Gets a palette value.
 /// @param {string} $keys Key(s).
 /// @return {string} Value.
-@function _palette($keys...) {
+@function _palettte($keys...) {
 	@return val($palette, $keys...);
 }
 
